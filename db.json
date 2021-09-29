@@ -1,1 +1,23 @@
-{}
+{
+  "topic": [
+    {
+      "id": 1,
+      "title": "lowdb",
+      "description": "lowdb is ...",
+      "author": 1
+    },
+    {
+      "id": 2,
+      "title": "mySQL & mariaDB",
+      "description": "mySQL is ...",
+      "author": 1
+    }
+  ],
+  "author": [
+    {
+      "id": 1,
+      "name": "hyeseong",
+      "profile": "dev"
+    }
+  ]
+}
