@@ -11,6 +11,12 @@
       "title": "mySQL & mariaDB",
       "description": "mySQL is ...",
       "author": 1
+    },
+    {
+      "id": "KXFu2C9ys5",
+      "title": "PostgreSQL",
+      "description": "PrestreSQL is...",
+      "author": "q3_9dm-nB"
     }
   ],
   "author": [
@@ -18,6 +24,11 @@
       "id": 1,
       "name": "hyeseong",
       "profile": "dev"
+    },
+    {
+      "id": "q3_9dm-nB",
+      "name": "pakubazzi",
+      "profile": "designer"
     }
   ]
 }
